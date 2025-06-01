@@ -1,14 +1,14 @@
-# Tuhin Patra's Portfolio
+# Sudam Kumar Paul's Portfolio
 
 Welcome to my personal portfolio website! 🚀
 
 ## About Me
 
-I'm Tuhin Patra, a passionate Data Science student from India. This portfolio showcases my projects, skills, and experiences.
+I'm Sudam Kumar Paul, a passionate Data Science student from India. This portfolio showcases my projects, skills, and experiences.
 
 ## Website Link
 
-[Visit My Portfolio](https://tuhinpatraportfolio.netlify.app/)
+[Visit My Portfolio](https://sudam23.github.io/portfolio/)
 
 ## Technologies Used
 
@@ -16,7 +16,6 @@ I'm Tuhin Patra, a passionate Data Science student from India. This portfolio sh
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=flat&logo=font-awesome&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ## Features
 
@@ -42,7 +41,6 @@ I'm Tuhin Patra, a passionate Data Science student from India. This portfolio sh
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhin-patra-226651294)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TuhinPatra633)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/TuhinPa43185351)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Tuhin633)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tuhin.patra.7/)
 
