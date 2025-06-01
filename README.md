@@ -48,4 +48,4 @@ I'm Sudam Kumar Paul, a passionate Data Science student from India. This portfol
 
 ---
 
-Designed with ❤️ by [Sudam Kumar Paul](www.linkedin.com/in/sudam-39o3982o)
+Designed with ❤️ by [Sudam Kumar Paul](https://www.linkedin.com/in/sudam-39o3982o)
