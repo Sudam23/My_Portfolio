@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! 🚀
 
 ## About Me
 
-I'm Sudam Kumar Paul, a passionate Data Science student from India. This portfolio showcases my projects, skills, and experiences.
+I'm Sudam Kumar Paul, an AI/ML Engineer at Rezolve AI, working on Agentic AI, multi-agent conversational systems, and search services. This portfolio showcases my projects, skills, and experiences.
 
 ## Website Link
 
@@ -23,6 +23,7 @@ I'm Sudam Kumar Paul, a passionate Data Science student from India. This portfol
 - **Skills Section:** Detailed information about my technical skills
 - **Projects:** Showcase of my work with descriptions and images
 - **Education and Experience:** Highlights of my academic and professional journey
+- **Agentic AI:** Experience with LangGraph, MCP, A2A, FastAPI, and retail conversational assistants
 - **Contact Form:** Easy way to get in touch with me
 
 ## Sections
